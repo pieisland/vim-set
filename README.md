@@ -18,8 +18,7 @@ cp ./. vimrc ~
 
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
+Format: ![Alt Text](https://github.com/)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
